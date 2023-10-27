@@ -1,7 +1,7 @@
 package onlineshoppingpart2;
 
 
-import java.util.ArrayList;....
+import java.util.ArrayList;.......
 import java.util.Arrays;
 
 /*
